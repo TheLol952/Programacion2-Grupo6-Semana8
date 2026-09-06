@@ -10,7 +10,7 @@ conflictos en GitHub.
 
 | Integrante | Rol | Aporte |
 | --- | --- | --- |
-| Josueé Ernesto Zelaya Carballo | Git Master / desarrollador | Configuracion del repositorio y modulo Cliente |
+| Josué Ernesto Zelaya Carballo | Git Master / desarrollador | Configuracion del repositorio y modulo Cliente |
 | Elvis Tu Yang | QA / desarrollador | Pruebas, validaciones y revision de Pull Requests |
 | Bryan Enrique Alfaro Guzman | Desarrollador | Modulo Producto |
 | Ruben Eduardo Estupinian Avila | Desarrollador | Modulo Venta |
