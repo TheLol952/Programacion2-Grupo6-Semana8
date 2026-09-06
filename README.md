@@ -71,3 +71,8 @@ java -cp out sv.edu.uees.programacion2.cliente.ClienteTest
 6. Esperar la revision del QA y del Git Master antes del merge.
 
 No se deben enviar cambios directamente a `main`.
+
+
+##------------------------------------
+
+Se agregan comentarios para crear conflicto
