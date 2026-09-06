@@ -70,4 +70,4 @@ java -cp out sv.edu.uees.programacion2.cliente.ClienteTest
 5. Abrir un Pull Request hacia `main`.
 6. Esperar la revision del QA y del Git Master antes del merge.
 
-No se deben enviar cambios directamente a `main`.
+No se deben enviar cambios directamente a `main`
