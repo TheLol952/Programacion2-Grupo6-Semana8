@@ -10,12 +10,12 @@ conflictos en GitHub.
 
 | Integrante | Rol | Aporte |
 | --- | --- | --- |
-| Pendiente | Git Master / desarrollador | Configuracion del repositorio y modulo Cliente |
-| Pendiente | QA / desarrollador | Pruebas, validaciones y revision de Pull Requests |
-| Pendiente | Desarrollador | Modulo Producto |
-| Pendiente | Desarrollador | Modulo Venta |
-| Pendiente | Desarrollador | Modulo Usuario o Empleado |
-| Pendiente | Desarrollador / documentacion | Modulo Inventario y evidencias |
+Git Master / desarrollador | Configuracion del repositorio y modulo Cliente |
+QA / desarrollador | Pruebas, validaciones y revision de Pull Requests |
+Desarrollador | Modulo Producto |
+Desarrollador | Modulo Venta |
+Desarrollador | Modulo Usuario o Empleado |
+Desarrollador / documentacion | Modulo Inventario y evidencias |
 
 ## Requisitos
 
