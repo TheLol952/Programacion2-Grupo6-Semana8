@@ -10,12 +10,12 @@ conflictos en GitHub.
 
 | Integrante | Rol | Aporte |
 | --- | --- | --- |
-Git Master / desarrollador | Configuracion del repositorio y modulo Cliente |
-QA / desarrollador | Pruebas, validaciones y revision de Pull Requests |
-Desarrollador | Modulo Producto |
-Desarrollador | Modulo Venta |
-Desarrollador | Modulo Usuario o Empleado |
-Desarrollador / documentacion | Modulo Inventario y evidencias |
+| Josué Ernesto Zelaya Carballo | Git Master / desarrollador | Configuracion del repositorio y modulo Cliente |
+| Elvis Tu Yang | QA / desarrollador | Pruebas, validaciones y revision de Pull Requests |
+| Bryan Enrique Alfaro Guzman | Desarrollador | Modulo Producto |
+| Ruben Eduardo Estupinian Avila | Desarrollador | Modulo Venta |
+| Carlos Javier Alfaro Viera  | Desarrollador | Modulo Usuario o Empleado |
+| Kelly Alejandra Rodriguez Alvarado | Desarrollador / documentacion | Modulo Inventario y evidencias |
 
 ## Requisitos
 
