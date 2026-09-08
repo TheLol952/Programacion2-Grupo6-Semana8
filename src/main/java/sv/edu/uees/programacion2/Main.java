@@ -23,5 +23,6 @@ public final class Main {
 
         System.out.println("Proyecto base configurado correctamente.");
         System.out.println(cliente);
+        System.out.println("Inicializando el módulo de Producto...");
     }
 }
