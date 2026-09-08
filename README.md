@@ -6,16 +6,15 @@ conflictos en GitHub.
 
 ## Integrantes y aportes
 
-> Sustituir los textos pendientes por los nombres completos antes de entregar.
-
-| Integrante | Rol | Aporte |
-| --- | --- | --- |
-| Josué Ernesto Zelaya Carballo | Git Master / desarrollador | Configuracion del repositorio y modulo Cliente |
-| Elvis Tu Yang | QA / desarrollador | Pruebas, validaciones y revision de Pull Requests |
-| Bryan Enrique Alfaro Guzman | Desarrollador | Modulo Producto |
-| Ruben Eduardo Estupinian Avila | Desarrollador | Modulo Venta |
-| Carlos Javier Alfaro Viera  | Desarrollador | Modulo Usuario o Empleado |
-| Kelly Alejandra Rodriguez Alvarado | Desarrollador / documentacion | Modulo Inventario y evidencias |
+| Integrante | Rol | Aporte | Usuario |
+| --- | --- | --- | --- |
+| Josué Ernesto Zelaya Carballo | Git Master / desarrollador | Configuracion del repositorio y modulo Cliente | TheLol952 |
+| Elvis Tu Yang | QA / desarrollador | Pruebas, validaciones y revision de Pull Requests | --- |
+| Bryan Enrique Alfaro Guzman | Desarrollador | Modulo Producto | 
+Enriq3jd |
+| Ruben Eduardo Estupinian Avila | Desarrollador | Modulo Venta | panalpina1000-ai |
+| Carlos Javier Alfaro Viera  | Desarrollador | Modulo Usuario o Empleado | CarlosAlfaro1987 |
+| Kelly Alejandra Rodriguez Alvarado | Desarrollador / documentacion | Modulo Inventario y evidencias | dearkr7-jpg |
 
 ## Requisitos
 
